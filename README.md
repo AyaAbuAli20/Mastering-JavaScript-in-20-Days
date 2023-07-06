@@ -9,9 +9,9 @@ In this challenge, we will improve our JavaScript skills by working with hands-o
 - Objective: Improve JavaScript proficiency through daily learning and practice
 
 ### Courses
-[JavaScript: From First Steps to Professional]([URL](https://frontendmasters.com/courses/javascript-first-steps/))
-[JavaScript: The Hard Parts, v2]([URL](https://frontendmasters.com/courses/javascript-hard-parts-v2/))
-[Deep JavaScript Foundations, v3]([URL](https://frontendmasters.com/courses/deep-javascript-v3/))
+[JavaScript: From First Steps to Professional](https://frontendmasters.com/courses/javascript-first-steps/)
+[JavaScript: The Hard Parts, v2](https://frontendmasters.com/courses/javascript-hard-parts-v2/)
+[Deep JavaScript Foundations, v3](https://frontendmasters.com/courses/deep-javascript-v3/)
 
 ### Coding Challenges
 - First Challenge
