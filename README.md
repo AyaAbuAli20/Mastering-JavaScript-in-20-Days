@@ -17,7 +17,7 @@ In this challenge, we will improve our JavaScript skills by working with hands-o
 
 
 ### Coding Challenges
-- First Challenge
+[First Challenge](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/compound-assignment-with-augmented-multiplication)
 - Second Challenge
 - Third Challenge
 - Fourth Challenge
