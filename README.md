@@ -42,7 +42,9 @@ In this challenge, we will improve our JavaScript skills by working with hands-o
 4. Repeat the process for the next 20 days, gradually advancing your JavaScript skills.
 
 ### Folder Structure
-- Day 1
-- Day 2
-- Day 3
-- Day 4
+- [Day 1](https://github.com/AyaAbuAli20/Mastering-JavaScript-in-20-Days/blob/main/Day1.md)
+- [Day 2](https://github.com/AyaAbuAli20/Mastering-JavaScript-in-20-Days/blob/main/Day2.md)
+- [Day 3](https://github.com/AyaAbuAli20/Mastering-JavaScript-in-20-Days/blob/main/Day3.md)
+- [Day 4](https://github.com/AyaAbuAli20/Mastering-JavaScript-in-20-Days/blob/main/Day4.md)
+- [Day 5](https://github.com/AyaAbuAli20/Mastering-JavaScript-in-20-Days/blob/main/Day5.md)
+
