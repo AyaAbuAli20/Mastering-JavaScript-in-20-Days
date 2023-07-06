@@ -17,18 +17,22 @@ In this challenge, we will improve our JavaScript skills by working with hands-o
 
 
 ### Coding Challenges
+#### Day1-Challenges
  [First Challenge](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/compound-assignment-with-augmented-multiplication)
  [Second Challenge](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/compound-assignment-with-augmented-multiplication)
- 
-- Third Challenge
+ [Third Challenge](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/use-bracket-notation-to-find-the-nth-to-last-character-in-a-string)
+#### Day2-Challenges
 - Fourth Challenge
 - Fifth Challenge
 - Sixth Challenge
+#### Day3-Challenges
 - Seventh Challenge
 - Eighth Challenge
 - Ninth Challenge
+#### Day4-Challenges
 - Tenth Challenge
 - Eleventh Challenge
+#### Day5-Challenges
 
 ### Daily Learning Process
 1. Watch 90 minutes of the assigned courses listed above.
