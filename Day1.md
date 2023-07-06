@@ -29,6 +29,7 @@ a *= 5; // The *= operator multiplies a variable by a number.
 b *= 3;
 c *= 10;
 
+
 [Compound Assignment With Augmented Multiplication](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/compound-assignment-with-augmented-multiplication)
 
 #### My Solution
