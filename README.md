@@ -23,9 +23,10 @@ In this challenge, we will improve our JavaScript skills by working with hands-o
 - [Third Challenge](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/use-bracket-notation-to-find-the-nth-to-last-character-in-a-string)
 
 #### Day2-Challenges
--[First Challenge](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/profile-lookup)
-[Second Challenge](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-data-structures/copy-array-items-using-slice)
-- Sixth Challenge
+- [First Challenge](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/profile-lookup)
+- [Second Challenge](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-data-structures/copy-array-items-using-slice)
+- [Third Challenge](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-data-structures/combine-arrays-with-the-spread-operator)
+
 #### Day3-Challenges
 - Seventh Challenge
 - Eighth Challenge
