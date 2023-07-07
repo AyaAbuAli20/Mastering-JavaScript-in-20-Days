@@ -56,7 +56,7 @@ scope:determines where varibles are "in play"
 
 ## Coding Exercises
 
-- [Return a Value from a Function with Return](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/return-a-value-from-a-function-with-return)
+[Return a Value from a Function with Return](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/return-a-value-from-a-function-with-return)
 #### My Solution
 ```javascript
 function timesFive(num) {
@@ -66,7 +66,7 @@ function timesFive(num) {
 const answer = timesFive(5);
 ```
 
-- [Global Scope and Functions](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/global-scope-and-function)
+[Global Scope and Functions](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/global-scope-and-function)
 
 #### My Solution
 ```javascript
@@ -93,7 +93,7 @@ function fun2() {
 ```
 
 
-- [Local Scope and Functions](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/local-scope-and-functions)
+[Local Scope and Functions](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/local-scope-and-functions)
 
 #### My Solution
 ```javascript
