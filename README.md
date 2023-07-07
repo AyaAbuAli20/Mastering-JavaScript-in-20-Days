@@ -24,7 +24,7 @@ In this challenge, we will improve our JavaScript skills by working with hands-o
 
 #### Day2-Challenges
 -[First Challenge](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/profile-lookup)
-- Fifth Challenge
+[Second Challenge](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-data-structures/copy-array-items-using-slice)
 - Sixth Challenge
 #### Day3-Challenges
 - Seventh Challenge
