@@ -28,9 +28,11 @@ In this challenge, we will improve our JavaScript skills by working with hands-o
 - [Third Challenge](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-data-structures/combine-arrays-with-the-spread-operator)
 
 #### Day3-Challenges
-- Seventh Challenge
-- Eighth Challenge
-- Ninth Challenge
+- [Return a Value from a Function with Return](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/return-a-value-from-a-function-with-return)
+- [Global Scope and Functions](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/global-scope-and-function)
+- [Local Scope and Functions](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/local-scope-and-functions)
+- [Stand in Line](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/stand-in-line)
+
 #### Day4-Challenges
 - Tenth Challenge
 - Eleventh Challenge
