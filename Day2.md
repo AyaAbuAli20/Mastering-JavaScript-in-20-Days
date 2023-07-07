@@ -22,7 +22,7 @@ let number = [100,2,50];
  number[1]=150; 
 ```
 
-### Obhects
+### Objects
  It is used to store various keyed collections and more complex entities.
  ```javascript
  const person={
