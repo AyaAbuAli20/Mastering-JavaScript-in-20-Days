@@ -48,8 +48,8 @@ const shourterThan= (x,y) => x<y
 shourterThan([1,2],[1,2,3])
 ```
 ### Scope
-scope:determines where varibles are "in play"
--the widest scope is the global scope.
+scope:determines where varibles are "in play".<br>
+-the widest scope is the global scope.<br>
 -each function gets its own scope within the scope where it was declared.
 
 
