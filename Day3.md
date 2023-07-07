@@ -66,19 +66,30 @@ function timesFive(num) {
 const answer = timesFive(5);
 ```
 
- [Copy Array Items Using Slice](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-data-structures/copy-array-items-using-slice)
+- [Global Scope and Functions](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/global-scope-and-function)
 
 #### My Solution
 ```javascript
-function forecast(arr) {
+// Declare the myGlobal variable below this line
+let myGlobal=10;
 
-
-arr= arr.slice(2, 4);
-  return arr;
+function fun1() {
+  // Assign 5 to oopsGlobal here
+ oopsGlobal=5;
 }
 
+// Only change code above this line
 
-console.log(forecast(['cold', 'rainy', 'warm', 'sunny', 'cool', 'thunderstorms']));
+function fun2() {
+  let output = "";
+  if (typeof myGlobal != "undefined") {
+    output += "myGlobal: " + myGlobal;
+  }
+  if (typeof oopsGlobal != "undefined") {
+    output += " oopsGlobal: " + oopsGlobal;
+  }
+  console.log(output);
+}
 ```
 
 
