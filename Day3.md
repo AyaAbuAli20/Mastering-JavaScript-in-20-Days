@@ -93,17 +93,20 @@ function fun2() {
 ```
 
 
-[Combine Arrays with the Spread Operator](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-data-structures/combine-arrays-with-the-spread-operator)
+- [Local Scope and Functions](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/local-scope-and-functions)
 
 #### My Solution
 ```javascript
-function spreadOut() {
-  let fragment = ['to', 'code'];
-  let sentence=['learning',...fragment,'is', 'fun']; // Change this line
-  return sentence;
+function myLocalScope() {
+  // Only change code below this line
+let myVar=5;
+  console.log('inside myLocalScope', myVar);
 }
+myLocalScope();
 
-console.log(spreadOut());
+// Run and check the console
+// myVar is not defined outside of myLocalScope
+console.log('outside myLocalScope', myVar);
 
 ```
 
