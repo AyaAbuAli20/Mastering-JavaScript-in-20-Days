@@ -56,44 +56,14 @@ scope:determines where varibles are "in play"
 
 ## Coding Exercises
 
-[Profile Lookup](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/profile-lookup)
+- [Return a Value from a Function with Return](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/return-a-value-from-a-function-with-return)
 #### My Solution
 ```javascript
-// Setup
-const contacts = [
-  {
-    firstName: "Akira",
-    lastName: "Laine",
-    number: "0543236543",
-    likes: ["Pizza", "Coding", "Brownie Points"],
-  },
-  {
-    firstName: "Harry",
-    lastName: "Potter",
-    number: "0994372684",
-    likes: ["Hogwarts", "Magic", "Hagrid"],
-  },
-  {
-    firstName: "Sherlock",
-    lastName: "Holmes",
-    number: "0487345643",
-    likes: ["Intriguing Cases", "Violin"],
-  },
-  {
-    firstName: "Kristian",
-    lastName: "Vos",
-    number: "unknown",
-    likes: ["JavaScript", "Gaming", "Foxes"],
-  },
-];
-
-function lookUpProfile(name, prop) {
-  // Only change code below this line
-
-  // Only change code above this line
+function timesFive(num) {
+  return num *5;
 }
 
-lookUpProfile("Akira", "likes");
+const answer = timesFive(5);
 ```
 
  [Copy Array Items Using Slice](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-data-structures/copy-array-items-using-slice)
