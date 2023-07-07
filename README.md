@@ -23,7 +23,7 @@ In this challenge, we will improve our JavaScript skills by working with hands-o
 - [Third Challenge](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/use-bracket-notation-to-find-the-nth-to-last-character-in-a-string)
 
 #### Day2-Challenges
-- Fourth Challenge
+-[First Challenge](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/profile-lookup)
 - Fifth Challenge
 - Sixth Challenge
 #### Day3-Challenges
