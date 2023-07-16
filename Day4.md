@@ -7,9 +7,9 @@
 ### Event Handlers
 Event handlers allow us to detect and respond to events on the DOM. Here are the key points covered in this lesson:<br>
 
-We can use the .addEventListener method to attach event listeners to DOM elements.<br>
-Event listeners take in two parameters: the name of the event to listen for, and a handler function to run when the event occurs.<br>
-The event object provides information about the event, such as the target element and event type.<br>
+- We can use the .addEventListener method to attach event listeners to DOM elements.<br>
+- Event listeners take in two parameters: the name of the event to listen for, and a handler function to run when the event occurs.<br>
+- The event object provides information about the event, such as the target element and event type.<br>
 ```javascript
 // Example 1: Event Handlers
 const button = document.querySelector("#myButton");
@@ -22,9 +22,9 @@ button.addEventListener("click", () => {
 ### Conditionals
 Conditionals allow us to execute code based on certain conditions. Here are the key points covered in this lesson:<br>
 
-Conditional statements, such as if and else, allow us to run different blocks of code based on specific conditions.<br>
-Logical operators like && (and), || (or), and ! (not) can be used to create complex conditional expressions.<br>
-Loops, such as for and while, allow us to repeat code execution based on a specified condition.<br>
+- Conditional statements, such as if and else, allow us to run different blocks of code based on specific conditions.<br>
+- Logical operators like && (and), || (or), and ! (not) can be used to create complex conditional expressions.<br>
+- Loops, such as for and while, allow us to repeat code execution based on a specified condition.<br>
 
 ```javascript
 // Example 2: Conditionals
@@ -48,9 +48,9 @@ if (name.length > 10) {
 ### Map and Filter
 The map and filter methods provide powerful tools for array manipulation. Here are the key points covered in this lesson:<br>
 
-The map method iterates over an array and calls a function on each item, creating a new array with the results.<br>
-The filter method processes an array and returns a new array containing only the items that meet a specified condition.<br>
-The spread operator (...) can be used to insert all items from one array into another.<br>
+- The map method iterates over an array and calls a function on each item, creating a new array with the results.<br>
+- The filter method processes an array and returns a new array containing only the items that meet a specified condition.<br>
+- The spread operator (...) can be used to insert all items from one array into another.<br>
 ```javascript
 // Example 3: Map and Filter
 const numbers = [1, 2, 3, 4, 5];
@@ -73,7 +73,7 @@ console.log(combinedArray);
 
 ## Coding Exercises
 
-[Use Multiple Conditional (Ternary) Operators]([https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/return-a-value-from-a-function-with-return](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/use-multiple-conditional-ternary-operators))
+[Use Multiple Conditional (Ternary) Operators](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/use-multiple-conditional-ternary-operators)
 #### My Solution
 ```javascript
 function checkSign(num) {
@@ -83,7 +83,7 @@ return num===0?"zero":num>0?"positive":"negative";
 checkSign(10);
 ```
 
-[Golf Code]([https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/global-scope-and-function](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/golf-code))
+[Golf Code](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/golf-code)
 
 #### My Solution
 ```javascript
@@ -101,7 +101,7 @@ golfScore(5, 4);
 ```
 
 
-[Use the map Method to Extract Data from an Array]([https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/local-scope-and-functions](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/functional-programming/use-the-map-method-to-extract-data-from-an-array))
+[Use the map Method to Extract Data from an Array](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/functional-programming/use-the-map-method-to-extract-data-from-an-array)
 
 #### My Solution
 ```javascript
@@ -121,7 +121,7 @@ console.log(JSON.stringify(ratings));
 
 
 ```
-[Use the filter Method to Extract Data from an Array]([https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/stand-in-line](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/functional-programming/use-the-filter-method-to-extract-data-from-an-array))
+[Use the filter Method to Extract Data from an Array](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/functional-programming/use-the-filter-method-to-extract-data-from-an-array)
 #### My Solution
 ```javascript
 // Only change code below this line
