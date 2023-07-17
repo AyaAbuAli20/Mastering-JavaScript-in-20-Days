@@ -27,9 +27,9 @@ console.log(result);
 ###  Destructuring Data
 Destructuring allows us to declare multiple variables at once by extracting values from objects or arrays. Here are the key points covered in this lesson:<br>
 
-Destructuring objects to retrieve values from properties.<br>
-Destructuring arrays using square brackets.<br>
-Applying destructuring in various scenarios to simplify code.<br>
+- Destructuring objects to retrieve values from properties.<br>
+- Destructuring arrays using square brackets.<br>
+- Applying destructuring in various scenarios to simplify code.<br>
 ```javascript
 const person = {
   name: "Aya Abu Ali",
