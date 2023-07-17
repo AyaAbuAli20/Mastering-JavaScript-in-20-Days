@@ -1,7 +1,7 @@
 
 
 
-# Day 4: Basic JavaScripts
+# Day 5: Basic JavaScripts
 
 ## Lesson Summary
 
